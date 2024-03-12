@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "IyizicoApi.Controllers.PaymentsController",
+    "Method": "GetPaymentWith3D",
+    "RelativePath": "api/Payments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IyizicoApi.Controllers.PaymentsController",
+    "Method": "PaymentCallBack",
+    "RelativePath": "api/Payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "form",
+        "Type": "Microsoft.AspNetCore.Http.IFormCollection",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
